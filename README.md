@@ -168,7 +168,7 @@ without managing servers.
 
 ## Credits 
 We gratefully acknowledge the contributions of: 
-- Kushal [(https://github.com/Kushal-dev-22)]
+- Kushal (https://github.com/Kushal-dev-22)
 - Harmila (https://github.com/Harmila331)
 - Dhanaswi (https://github.com/dhanaswi)
 
