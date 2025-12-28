@@ -160,9 +160,14 @@ without managing servers.
 
 **Your Amazon S3 static website is now officially deployed and live!** 🚀
 <br>
+
 <p align="center">
   <img src="images/16.png" width="500">
 </p>
 <br>
 
+## Credits We gratefully acknowledge the contributions of: 
+- Kushal (https://github.com/Kushal-dev-22)
+- Harmila (https://github.com/Harmila331)
+- Dhanaswi (https://github.com/dhanaswi)
 
